@@ -1,0 +1,14 @@
+{
+    "students": null,
+    "2": true,
+    "null": 24,
+    "tuple": [
+        11,
+        12,
+        13
+    ],
+    "true": {
+        "subject": "Fundamentals of Computer Science",
+        "date": "2020-01-01"
+    }
+}
